@@ -1,1 +1,1 @@
-# Detecci-n-de-diabetes
+# Deteccion-de-diabetes
